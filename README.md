@@ -1,2 +1,2 @@
-Compulsory project file, _I guess?_ \n
+Compulsory project file, _I guess?_
 **Mandatory and more...**
